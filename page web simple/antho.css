@@ -10,7 +10,7 @@ h1
 {
     font-size: 54px;
     color: red;
-    font-style: italic;
+    font-style:italic;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -44,6 +44,6 @@ ul
 
 .parcour
 {
-    color: white;
+    color: unset;
     text-align: right;
 }
