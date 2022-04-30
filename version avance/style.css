@@ -7,6 +7,11 @@ body
     text-align: center;
 }
 
+header
+{
+    background-color: royalblue;
+}
+
 h1
 {
     font-size: 54px;
@@ -39,8 +44,6 @@ ul
 
 .passion
 {
- /* display: flex;
-    flex-direction: column; */
     text-align: left;
     color: slategray;
 }
@@ -49,4 +52,9 @@ ul
 {
     color: unset;
     text-align: right;
+}
+
+footer
+{
+    background-color:darkgoldenrod
 }
