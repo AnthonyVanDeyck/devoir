@@ -13,6 +13,12 @@ header
     background-color: royalblue;
 }
 
+.menu
+{
+    background-color: rgb(253, 9, 111);
+    color: black;
+}
+
 h1
 {
     font-size: 54px;
