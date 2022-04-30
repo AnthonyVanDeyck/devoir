@@ -1,1 +1,5 @@
 /* gestion de la grid et flexbox du site */
+body
+{
+    display: grid;
+}

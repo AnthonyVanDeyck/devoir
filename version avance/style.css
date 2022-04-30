@@ -17,6 +17,7 @@ header
 {
     background-color: rgb(253, 9, 111);
     color: black;
+    list-style: none;
 }
 
 h1
